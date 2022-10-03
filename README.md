@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**lukas02727/lukas02727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**lukas02727/lukas02727** is a ✨ _special_ ✨ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3><b>Nějaké informace</b></h3>
+  
+- IG: lukashodovnik
+- Discord: Lukas_is_Mighty
+- 17y.o
+- SPS_MB
+- 🔭 I’m currently working on nothing.
+- 🌱 I’m usually learning how to play WOT.
+- 🤔 I’m looking for help with everything.
+- 💬 Ask me about what you want.
+- 📫 How to reach me: lukashodovnik@gmail.com
+
+
+
