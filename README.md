@@ -1,6 +1,6 @@
-<h3 align="center" text-align="bold" text-decoration="underline">Nějaké informace o mně</h3>
+<h2 align="center" text-align="bold" text-decoration="underline white">Nějaké informace o mně</h2>
 
-<h2 align="center">Základní informace</h2>
+<h3 align="left">Základní informace</h3>
 <p>- Je mi 17</p>
 <p>- Hraju WOT</p>
 <p>- Studuju na střední průmyslové škole v MB</p>
