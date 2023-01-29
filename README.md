@@ -1,10 +1,10 @@
-<h2 align="center" text-align="bold" text-decoration="underline white" color:"gold">Nějaké informace o mně</h2>
+<h2 align="center" text-align="bold" text-decoration="underline white">Nějaké informace o mně</h2>
 
 <h3 align="left" color="gold">Základní informace</h3>
 <p>- Je mi 17</p>
 <p>- Hraju WOT</p>
 <p>- Studuju na střední průmyslové škole v MB</p>
-<h3 align="left" color="gold">Můžeš mě kontaktovat:</h3>
+<h3 align="left" color="black">Můžeš mě kontaktovat:</h3>
 <p align="left">
 <a href="https://instagram.com/lukashodovnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lukashodovnik" height="30" width="40" /></a>
 <a href="https://discord.gg/#6674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6674" height="30" width="40" /></a>
