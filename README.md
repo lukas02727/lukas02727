@@ -1,4 +1,4 @@
-<h3 align="center" text-align="bold">Nějaké informace o mně</h3>
+<h3 align="center" text-align="bold" text-decoration="underline">Nějaké informace o mně</h3>
 
 <h3 align="left">Můžeš mě kontaktovat:</h3>
 <p align="left">
