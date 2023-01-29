@@ -1,4 +1,4 @@
-<h2 align="center" text-align="bold" text-decoration="underline white" font-style="italic">Nějaké informace o mně</h2>
+<h2 align="center" text-align="bold" text-decoration="underline white" color:"gold">Nějaké informace o mně</h2>
 
 <h3 align="left" color="gold">Základní informace</h3>
 <p>- Je mi 17</p>
