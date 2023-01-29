@@ -3,7 +3,7 @@
 <h3 align="left" >Základní informace</h3>
 <p>- Je mi 17</p>
 <p>- Hraju WOT</p>
-<p>- Studuju na střední průmyslové škole v MB</p>
+<p>- Studuju na Střední průmyslové škole v MB</p>
 
 
 <h3 align="left" >Můžeš mě kontaktovat:</h3>
