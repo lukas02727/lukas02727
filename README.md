@@ -1,8 +1,8 @@
 <h2 align="center" text-align="bold" text-decoration="underline white">Nějaké informace o mně</h2>
 
 <h3 align="left" >Základní informace</h3>
-<p>- Je mi 17</p>
-<p>- Hraju WOT</p>
+<p>- Je mi 18</p>
+<p>- Hraju počítačové hry(WOT, Valorant)</p>
 <p>- Studuju na Střední průmyslové škole v MB</p>
 
 
