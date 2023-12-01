@@ -9,7 +9,7 @@
 <h3 align="left" >Můžeš mě kontaktovat:</h3>
 <p align="left">
 <a href="https://instagram.com/lukashodovnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lukashodovnik" height="42" width="42" /></a>
-<a href="https://discord.gg/#6674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6674" height="42" width="42" /></a>
+<a href="https://discord.gg/Lukas_is_Mighty#6674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6674" height="42" width="42" /></a>
 </p>
 
 <h3 align="left">Programovací jazyky, které se momentálně učím:</h3>
